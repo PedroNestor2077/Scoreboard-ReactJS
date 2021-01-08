@@ -1,0 +1,21 @@
+#info-container{
+    display:flex;
+    width:30%;
+    height:30%;
+    flex-wrap:wrap;
+    justify-content:center;
+}
+#stadium{
+    background-color:rgba(128, 128, 128, 0.637);
+    border-radius:30px;
+    padding:7px;
+    text-align:center;
+    font-family:"Helvetica";
+    color:rgb(29, 28, 28);
+}
+#game-time{
+    font-family:"Helvetica";
+    color:gray;
+    text-align:center;
+    font-size:.6em;
+}
